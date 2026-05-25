@@ -33,3 +33,5 @@ The dataset was in its raw form and contained null values
 * Hyperparameter tuning will be applied to optimize model performance and improve predictive accuracy
 * Feature engineering will be explored to enhance model performance and capture more meaningful patterns in the data
 * Development of a web application to integrate the model for real-time student performance prediction.
+
+The project was intially done on google colab
